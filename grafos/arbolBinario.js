@@ -25,6 +25,9 @@ class Grafo {
         ref.may = node;
     }
   }
+  deleteValue(value){
+
+  }
 }
 
 class Node {
